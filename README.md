@@ -12,3 +12,4 @@ SD CARD BURNING
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/ec9b5811-d438-4683-a9fe-9cf9aa0743f1" />
 <img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/e78305ef-f39d-4f72-9ea9-98b7726a3524" />
 <img width="443" height="960" alt="image" src="https://github.com/user-attachments/assets/f0546ece-bfe0-45ad-8744-9504e58625ba" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bc7cda3-c568-4f01-ae7d-2cc290552938" />
