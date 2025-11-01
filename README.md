@@ -18,3 +18,5 @@ jetson board 발열체크
 <img width="443" height="960" alt="image" src="https://github.com/user-attachments/assets/f0546ece-bfe0-45ad-8744-9504e58625ba" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9bc7cda3-c568-4f01-ae7d-2cc290552938" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cd2b021-4c7e-479b-87fb-2d5944ce68cd" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a90675a5-2ab7-4793-bbb0-5122d6233d86" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/73d912a7-9506-40a6-b1f7-4f5304b8ef2c" />
