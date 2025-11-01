@@ -8,10 +8,7 @@ SD CARD BURNING
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/84ddd78e-9e5f-4770-bd3d-e28c081a26d0" />
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/a2cc211a-1828-4ca5-9d54-4c23501366d6" />
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/2cebf615-f29f-4e66-b1ff-cecd21882f91" />
-GUI
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1087c1d-02f1-4b83-9830-97555986d7c7" />
-한글 패치
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/ec9b5811-d438-4683-a9fe-9cf9aa0743f1" />
-카메라 작동
 <img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/e78305ef-f39d-4f72-9ea9-98b7726a3524" />
 <img width="443" height="960" alt="image" src="https://github.com/user-attachments/assets/f0546ece-bfe0-45ad-8744-9504e58625ba" />
